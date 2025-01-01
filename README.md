@@ -51,27 +51,39 @@
 
 ###
 
-<h2 align="left">Images from Projects</h2>
+<h2 align="left">Project Showcases</h2>
 
-###
+### Solving Minesweeper (Video)
 
-<img align="left" height="200" src="https://camo.githubusercontent.com/7225b063db9126c24a9b07a05c9b164879820c3409fdfd111e65f555a2d2ec7a/68747470733a2f2f692e696d6775722e636f6d2f776743437457442e706e67"  />
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/u9fJjolJFzo/0.jpg)](https://www.youtube.com/watch?v=u9fJjolJFzo)
 
-###
+### Falling Particles (Video)
 
-<img align="left" height="200" src="https://camo.githubusercontent.com/4eb877cc42d9dffd1981553bc88648d965d203b56b8c735602377c9110743570/687474703a2f2f696d672e796f75747562652e636f6d2f76692f3739307068674f554779512f302e6a7067"  />
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/X4Isk08SqPQ/0.jpg)](https://www.youtube.com/watch?v=X4Isk08SqPQ)
 
-###
+### Solving Dynamic Cost Functions (Video)
 
-<img align="left" height="200" src="https://raw.githubusercontent.com/mtresnik/ascii-image/main/example-output/ascii-fruits.jpg"  />
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/l1cpv-TokP4/0.jpg)](https://www.youtube.com/watch?v=l1cpv-TokP4)
 
-###
+### Checkers AI Battle (Video)
 
-<img align="left" height="200" src="https://camo.githubusercontent.com/2e21ec00ae50da2436f157e4c043ab81f6b37d4fe857c1c54a42d07965a7aa84/68747470733a2f2f692e696d6775722e636f6d2f496b43626a47722e706e67"  />
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/OoUl5uInBW8/0.jpg)](https://www.youtube.com/watch?v=OoUl5uInBW8)
 
-###
+### Generating Mazes (Video)
 
-<img align="left" height="200" src="https://raw.githubusercontent.com/mtresnik/2d-game-engine/master/src/example_games/screenshots/i%2B%2B/level3.PNG"  />
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/DNxZG8XPXQc/0.jpg)](https://www.youtube.com/watch?v=DNxZG8XPXQc)
+
+### Solving Mazes
+<img height="400" src="res/maze.png" alt="Solving Mazes">
+
+### N-Queens (n=16) One Solution
+<img height="320" src="res/NQueens_OneSolution_16.png" alt="N-Queens (n=16) One Solution">
+
+### N-Queens Probability Distribution (n=16, #solutions=14,772,512)
+<img height="320" src="res/NQueens_16.png" alt="N-Queens Probability Distribution (n=16, #solutions=14,772,512)">
+
+### Ascii Image Conversion
+<img height="400" src="https://raw.githubusercontent.com/mtresnik/ascii-image/main/example-output/ascii-fruits.jpg"   alt="Ascii Image Conversion"/>
 
 ###
 
