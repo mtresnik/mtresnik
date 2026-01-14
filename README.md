@@ -1,89 +1,59 @@
-<h1 align="left">Hey 👋 I'm Mike!</h1>
+# Hi, I’m Mike 👋
 
-###
+Connect with me on [LinkedIn](https://www.linkedin.com/in/michael-resnik)
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/michael-resnik-36006912b/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.youtube.com/@michaelresnik3420" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="youtube logo"  />
-  </a>
-</div>
+---
 
-###
+## About Me
 
-<p align="left">I keep an consistent rubber duck to personal project ratio.</p>
+I’m a software engineer passionate about **algorithm design, geospatial systems, and full-stack development**. I enjoy turning complex problems into **elegant, practical solutions**, if such a thing exists.  
 
-###
+Three words to describe me are: curious, analytical, and adaptable. I love exploring new technologies and ways to improve software systems. Outside of coding, I enjoy **coffee, plants, jazz, and spending time with my two cats**.
 
-<h2 align="left">About me</h2>
 
-###
 
-<p align="left">💻 Uses Java and Kotlin<br>🧙 Master of jank<br>🌱 Tends to plants<br>☕ Enjoys coffee<br>😺 Has two cats</p>
+---
 
-###
+## Skills
 
-<h2 align="left">Languages Used</h2>
+**Languages & Frameworks:** Java, Kotlin, Python, Go, Typescript, HTML/CSS, Angular, React/WebTAK, Django, Android & TAK (https://tak.gov/products)
+**Databases:** MongoDB, PostgreSQL, Elasticsearch  
+**Cloud & DevOps:** AWS (EC2, S3, SNS, Kinesis, ElastiCache)  
+**Other Expertise:** GIS ([Geographic Information Systems](https://en.wikipedia.org/wiki/Geographic_information_system)), Multi-Factor Authentication, Computer Vision ([Wikipedia](https://en.wikipedia.org/wiki/Computer_vision)), Algorithm Design ([Wikipedia](https://en.wikipedia.org/wiki/Algorithm)), Simulation, Full-Stack Architecture  
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-</div>
+## Featured Projects
 
-###
+### Solving Minesweeper Algorithms
+AI-driven [Minesweeper](https://en.wikipedia.org/wiki/Minesweeper_(video_game)) solver using logic, probability, and constraint evaluation.  
+It can automatically determine safe moves, demonstrating problem-solving and logical reasoning. This is loosely based on the Harvard senior thesis [Algorithm Approaches to Playing Minesweeper](https://dash.harvard.edu/entities/publication/73120378-eb34-6bd4-e053-0100007fdf3b).
 
-<h2 align="left">Project Showcases</h2>
+[Video Demo](https://www.youtube.com/watch?v=u9fJjolJFzo)
 
-### Solving Minesweeper (Video)
+### Falling Particles Simulation
+Real-time particle simulation with gravity, collisions, and interactions.  
+This project demonstrates principles of [physics simulations](https://en.wikipedia.org/wiki/Physics_engine) in software.  
+[GitHub](https://github.com/mtresnik/cpart) | [Video Demo](https://www.youtube.com/watch?v=X4Isk08SqPQ)
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/u9fJjolJFzo/0.jpg)](https://www.youtube.com/watch?v=u9fJjolJFzo)
+### Maze Generation & Solving + Dynamic Cost Function Solver
+Adaptive algorithm solving optimization problems with changing cost functions.  
+This is an example of [optimization algorithms](https://en.wikipedia.org/wiki/Mathematical_optimization) applied to real-world decision-making.  
+Generates and solves random mazes using pathfinding algorithms like [BFS/DFS](https://en.wikipedia.org/wiki/Tree_traversal).  
+This illustrates [graph theory](https://en.wikipedia.org/wiki/Graph_theory) and algorithmic thinking in a visual way.  
 
-### Falling Particles (Video)
+[Kotlin](https://github.com/mtresnik/graph) | [Go](https://github.com/mtresnik/gograph) 
+[Video Demo](https://www.youtube.com/watch?v=l1cpv-TokP4) | [Video Demo](https://www.youtube.com/watch?v=DNxZG8XPXQc)
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/X4Isk08SqPQ/0.jpg)](https://www.youtube.com/watch?v=X4Isk08SqPQ)
+---
 
-### Solving Dynamic Cost Functions (Video)
+## Additional Projects
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/l1cpv-TokP4/0.jpg)](https://www.youtube.com/watch?v=l1cpv-TokP4)
+- **2d-game-engine** – Java library for building 2D games  
+- **gograph** – Go library for graph structures and algorithms  
+- **cpart** – C++ particle physics engine using OpenGL  
+- **cast** – Abstract Syntax Tree library in C  
 
-### Checkers AI Battle (Video)
+---
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/OoUl5uInBW8/0.jpg)](https://www.youtube.com/watch?v=OoUl5uInBW8)
-
-### Generating Mazes (Video)
-
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/DNxZG8XPXQc/0.jpg)](https://www.youtube.com/watch?v=DNxZG8XPXQc)
-
-### Solving Mazes
-<img height="400" src="res/maze.png" alt="Solving Mazes">
-
-### N-Queens (n=16) One Solution
-<img height="320" src="res/NQueens_OneSolution_16.png" alt="N-Queens (n=16) One Solution">
-
-### N-Queens Probability Distribution (n=16, #solutions=14,772,512)
-<img height="320" src="res/NQueens_16.png" alt="N-Queens Probability Distribution (n=16, #solutions=14,772,512)">
-
-### Ascii Image Conversion
-<img height="400" src="https://raw.githubusercontent.com/mtresnik/ascii-image/main/example-output/ascii-fruits.jpg"   alt="Ascii Image Conversion"/>
-
-###
-
+I enjoy contributing to **challenging software projects**, particularly in algorithms and geospatial systems. I aim to create **software that is both technically strong and understandable**. 
