@@ -2,6 +2,9 @@
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/michael-resnik)
 
+Work Gitlab:
+https://gitlab.com/mresnik
+
 ---
 
 ## About Me
