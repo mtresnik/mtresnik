@@ -5,9 +5,6 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/michael-resnik)
 Work Gitlab:
 https://gitlab.com/mresnik
 
-From GitBlend:
-![GitLab Contributions](https://gitblend.com/api/contributions?username=mresnik&theme=github)
-
 ---
 
 ## About Me
